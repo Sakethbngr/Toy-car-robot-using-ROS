@@ -1,6 +1,6 @@
 Robot Name: Assem3_6
 
-Paste the folder named 'Assem3_6' in the catkin workspace. 
+Paste the folder named 'Assem3_6'(Present in the package folder) in the catkin workspace. 
 
 Package name for this project is same as the robot name. i.e. Assem3_6
 
