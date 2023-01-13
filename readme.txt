@@ -1,3 +1,8 @@
+
+|Team Members
+|--
+|Saketh Narayan Banagiri
+|Aashrita Chemakura
 Robot Name: Assem3_6
 
 Paste the folder named 'Assem3_6'(Present in the package folder) in the catkin workspace. 
